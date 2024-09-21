@@ -48,9 +48,9 @@ I'm a third-year Computer Engineering student passionate about web development a
 Thanks for stopping by! 😊
 
 ---
-### GitHub Stats:
+
 <p align="center">
-<img height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=Drkadam07&theme=react&hide_border=false" alt="streak stats"> 
+<!-- <img height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=Drkadam07&theme=react&hide_border=false" alt="streak stats">  -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ThePhoenix08&theme=react&hide_border=false&include_all_commits=false&count_private=false) -->
 </p>
 
