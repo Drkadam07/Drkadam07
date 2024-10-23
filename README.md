@@ -50,14 +50,19 @@ Thanks for stopping by! 😊
 ---
 
 <p align="center">
-<!-- <img height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=Drkadam07&theme=react&hide_border=false" alt="streak stats">  -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=ThePhoenix08&theme=react&hide_border=false&include_all_commits=false&count_private=false) -->
+
+<!--![](https://github-readme-stats.vercel.app/api?username=Drkadam07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Drkadam07&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Drkadam07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 
-
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Drkadam07&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Drkadam07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
 
