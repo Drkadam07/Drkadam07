@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dhanraj Kadam </h1>
 <h3 align="center">A passionate frontend and backend developer from India 🇮🇳</h3>
 
-I'm a third-year Computer Engineering student passionate about web development and problem-solving. Currently, I’m exploring the MERN stack and have practical experience with Java and Python, while actively improving my knowledge in these technologies. I also enjoy tackling Data Structures and Algorithms (DSA) problems, sharpening my skills in algorithmic thinking.
+I'm a Computer Engineering student passionate about web development and problem-solving. I have practical experience with Java and Python, and I'm actively improving my knowledge in these technologies. I also enjoy tackling Data Structures and Algorithms (DSA) problems, sharpening my skills in algorithmic thinking.
 
 ### What I'm Currently Up To
 🌱 Expanding my knowledge in React to develop interactive user interfaces.<br/>
