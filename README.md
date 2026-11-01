@@ -87,12 +87,10 @@ I'm a Computer Engineering graduate with a strong interest in **Python engineeri
 <div align="center">
 
 <a href="https://github.com/Drkadam07">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Drkadam07&show_icons=true&hide_border=true&bg_color=0D1424&title_color=55D6FF&icon_color=9B8CFF&text_color=DCE8F5&rank_icon=github" alt="GitHub profile statistics"/>
-</a>
-<a href="https://github.com/Drkadam07">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Drkadam07&show_icons=true&hide_border=true&bg_color=0D1424&title_color=55D6FF&icon_color=9B8CFF&text_color=DCE8F5&rank_icon=github" alt="GitHub profile statistics"/><a href="https://github.com/Drkadam07">
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Drkadam07&layout=compact&hide_border=true&bg_color=0D1424&title_color=55D6FF&text_color=DCE8F5&langs_count=8" alt="Most used programming languages"/>
-
-<br/><br/>
+</a>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=Drkadam07&hide_border=true&background=0D1424&ring=55D6FF&fire=9B8CFF&currStreakLabel=55D6FF&sideLabels=DCE8F5&dates=8A9BB5&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
