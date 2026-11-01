@@ -87,11 +87,10 @@ I'm a Computer Engineering graduate with a strong interest in **Python engineeri
 <div align="center">
 
 <a href="https://github.com/Drkadam07">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Drkadam07&show_icons=true&hide_border=true&bg_color=0D1424&title_color=55D6FF&icon_color=9B8CFF&text_color=DCE8F5&rank_icon=github" alt="GitHub profile statistics"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Drkadam07&show_icons=true&hide_border=true&bg_color=0D1424&title_color=55D6FF&icon_color=9B8CFF&text_color=DCE8F5&rank_icon=github" alt="GitHub profile statistics"/>
 </a>
 <a href="https://github.com/Drkadam07">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drkadam07&layout=compact&hide_border=true&bg_color=0D1424&title_color=55D6FF&text_color=DCE8F5&langs_count=8" alt="Most used programming languages"/>
-</a>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Drkadam07&layout=compact&hide_border=true&bg_color=0D1424&title_color=55D6FF&text_color=DCE8F5&langs_count=8" alt="Most used programming languages"/>
 
 <br/><br/>
 
