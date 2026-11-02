@@ -96,7 +96,7 @@ I'm a Computer Engineering graduate with a strong interest in **Python engineeri
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Drkadam07&bg_color=0D1424&color=DCE8F5&line=55D6FF&point=9B8CFF&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drkadam07&bg_color=0D1424&color=DCE8F5&line=55D6FF&point=9B8CFF&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph"/> -->
 
 </div>
 
